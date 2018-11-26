@@ -26,8 +26,9 @@ public class OCAChapter06 {
             //String type = "moose";
             //Object obj = type;
             //int number = (int) obj;
-            //throw new NoMoreCarrotsException();
             eatCarrot();
+            eatCarrot();
+            //throw new NoMoreCarrotsException();
                
         }
         catch (NoMoreCarrotsException e)
